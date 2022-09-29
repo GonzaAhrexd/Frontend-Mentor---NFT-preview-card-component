@@ -39,7 +39,7 @@ Users should be able to:
 <img src="https://cdn.discordapp.com/attachments/740761148642689055/1024894474083647488/unknown.png">
 <p align="center"> Mobile view </p>
 </div>
-
+</div>
 ### Links
 
 - Live Site URL: (https://gonzaahrexd.github.io/Frontend-Mentor---NFT-preview-card-component/)
