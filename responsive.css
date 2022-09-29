@@ -4,4 +4,17 @@
     .attribution {
         margin-top: 3.125rem;
     }
+    .box {
+        background-color: hsl(216, 50%, 16%);
+        display: flex;
+        flex-direction: column;
+        width: 22rem;
+        height: 41.125rem;
+        align-self: center;
+        border-radius: 0.9375rem;
+        color: white;
+        justify-content: center;
+        margin-top: 3.25rem;
+        box-shadow: 0rem 0rem 1.875rem 0.125rem hsl(217deg 54% 11%);
+    }
 }
