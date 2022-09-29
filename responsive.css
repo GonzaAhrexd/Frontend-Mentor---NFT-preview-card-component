@@ -1,0 +1,7 @@
+@media (max-width: 638px) {
+    @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Outfit:wght@300;400;600&family=Secular+One&display=swap');
+
+    .attribution {
+        margin-top: 3.125rem;
+    }
+}
