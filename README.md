@@ -40,6 +40,7 @@ Users should be able to:
 <p align="center"> Mobile view </p>
 </div>
 </div>
+
 ### Links
 
 - Live Site URL: (https://gonzaahrexd.github.io/Frontend-Mentor---NFT-preview-card-component/)
